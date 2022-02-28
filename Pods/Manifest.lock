@@ -1,0 +1,16 @@
+PODS:
+  - WARangeSlider (1.1.1)
+
+DEPENDENCIES:
+  - WARangeSlider
+
+SPEC REPOS:
+  trunk:
+    - WARangeSlider
+
+SPEC CHECKSUMS:
+  WARangeSlider: 54b3e0853b8d16c444fd539005901aecee86837d
+
+PODFILE CHECKSUM: 403be1ac243c062dba1a579f25c09dcc8556eadc
+
+COCOAPODS: 1.11.2
